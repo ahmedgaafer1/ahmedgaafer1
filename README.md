@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Frontend Developer | Elmenoufia, Egypt<br><br><br>🔭 Currently working as a Frontend Developer with a passion for building responsive, user-friendly web applications.<br>📚 Learning new web development technologies to stay ahead of industry trends and best practices.<br>⚡ In my free time, I enjoy problem-solving, building personal projects, and exploring new ideas in technology.<br><br>📫 Contact<br>📧 Email: [ahmed.gaafar.dev@gmail.com]<br>🌐 LinkedIn:[https://www.linkedin.com/in/ahmedgaafer/]</p>
+<p align="left">Frontend Developer | Elmenoufia, Egypt<br><br><br>🔭 Currently working as a Frontend Developer with a passion for building responsive, user-friendly web applications.<br>📚 Learning new web development technologies to stay ahead of industry trends and best practices.<br>⚡ In my free time, I enjoy problem-solving, building personal projects, and exploring new ideas in technology.<br><br>📫 Contact<br>📧 Email: [ahmedmohammedgaafer@gmail.com]<br>🌐 LinkedIn:[https://www.linkedin.com/in/ahmedgaafer/]</p>
 
 ###
 
